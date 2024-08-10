@@ -40,5 +40,12 @@ if($verdadero){
 }else{
     echo "Falso";
 }
-
+#Funciones
+function suma($a, $b);{
+    return $a + $b;
+}
+#Arrays de texto
+$array = array(1,2,3,4,5,6,7,8,9,10);
+#Arrays de texto
+$array = array("uno","dos","tres","cuatro","cinco","seis","siete","ocho","nueve","diez");
 ?>
